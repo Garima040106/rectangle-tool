@@ -4,7 +4,9 @@
  For Quick Start:
  On bash:
 npm install
+
 npm run dev
+
 Open browser to: http://localhost:5173/
 
 (that is afte ryou have cloned the repo)
