@@ -11,7 +11,7 @@ npm run dev
 
 Open browser to: http://localhost:5173/
 
-(that is afte ryou have cloned the repo)
+(that is after you have cloned the repo)
 
 **Features
 
