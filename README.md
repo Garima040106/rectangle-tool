@@ -20,4 +20,5 @@ Open browser to: http://localhost:5173/
 **Tools
 
 -->Draw new rectangles
+
 -->Edit existing rectangles
