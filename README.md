@@ -10,10 +10,14 @@ Open browser to: http://localhost:5173/
 (that is afte ryou have cloned the repo)
 
 **Features
+
 -->Draw rectangles with click and drag
+
 -->Move and resize shapes
+
 -->Edit colours and border width
  
 **Tools
+
 -->Draw new rectangles
 -->Edit existing rectangles
