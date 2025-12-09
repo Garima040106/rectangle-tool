@@ -2,7 +2,9 @@
  (An interactive react app for drawing and editing rectangles)
 
  For Quick Start:
+ 
  On bash:
+ 
 npm install
 
 npm run dev
